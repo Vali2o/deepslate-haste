@@ -17,4 +17,5 @@
 
 
 # 💤 Here is a small showcase video
-https://youtu.be/XpLlHWO2oBk
+> Click the image to watch!
+[![Video Title](https://i.imgur.com/G4rJIpM.jpeg)](https://youtu.be/XpLlHWO2oBk)
