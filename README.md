@@ -15,6 +15,8 @@
 ### 😵‍💫 One more thing... 
 > I hope that you like this DataPack and have fun mining Deepslate!
 
+### 🧭 Where to download?
+> You can download the DataPack on [Modrinth](https://modrinth.com/datapack/.../)
 
 # 💤 Here is a small showcase video
 > Click the image to watch!
