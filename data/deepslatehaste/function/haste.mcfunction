@@ -1,0 +1,1 @@
+execute as @a at @s if block ~ ~-1 ~ minecraft:deepslate run effect give @s minecraft:haste 1 7 true
